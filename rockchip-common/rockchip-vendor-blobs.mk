@@ -57,7 +57,9 @@ PRODUCT_COPY_FILES += \
     vendor/bq/rockchip-common/proprietary/lib/hw/camera.rk30board.so:system/lib/hw/camera.rk30board.so \
     vendor/bq/rockchip-common/proprietary/lib/hw/gpu.rk30board.so:system/lib/hw/gpu.rk30board.so \
     vendor/bq/rockchip-common/proprietary/lib/hw/gralloc.rk30board.so:system/lib/hw/gralloc.rk30board.so \
-    vendor/bq/rockchip-common/proprietary/lib/hw/hwcomposer.rk30board.so:system/lib/hw/hwcomposer.rk30board.so
+    vendor/bq/rockchip-common/proprietary/lib/hw/hwcomposer.rk30board.so:system/lib/hw/hwcomposer.rk30board.so \
+    vendor/bq/rockchip-common/proprietary/lib/hw/sensors.rk30board.so:system/lib/hw/sensors.rk30board.so
+
     
 # Widevine
 PRODUCT_COPY_FILES += \
